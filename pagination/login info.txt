@@ -1,0 +1,5 @@
+cragists list info needed:
+inspect payload form data
+postman:headers content type,referer
+        inputemail:
+        inputpassword
